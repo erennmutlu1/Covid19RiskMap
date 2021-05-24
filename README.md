@@ -1,16 +1,7 @@
-# corona
+# Covid 19 Risk Map
 
-A new Flutter application.
+The project can take informations about number of Deaths,Active, Recovered 
+Corona Cases and also number of Vaccinated people in All Countries from https://www.bing.com/covid
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![image](https://user-images.githubusercontent.com/71450016/119281776-a6109c00-bc3f-11eb-828a-290dfa4bd0aa.png)
